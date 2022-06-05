@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+
+}
+#logo{
+    margin-left: 5px;
+}
+#myImg{
+    width:25%;
+    
+}
+header{
+    margin-bottom:5px;
+}
+
+#main{
+    display: flex;
+}
+#main2{
+    display: flex;
+}
+img{
+    width:50%;
+}
+.main{
+   
+    display:flex;
+}
+
+#checkboxes{
+   
+    margin: 10px 10px 10px 10px;
+}
+h1{
+    padding-top: 25px;
+}
+#content{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25% ;
+    
+}
+
+ul{ 
+    text-decoration: none;
+}
+li{
+    padding: 5px;
+    display: inline;
+}
+
+header{
+    height: 100px;
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+}
+
+footer{
+    margin-bottom: 0%;
+    
+    text-align: center;
+    background-color: blueviolet;
+}
+
